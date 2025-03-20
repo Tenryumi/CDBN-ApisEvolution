@@ -1,0 +1,11 @@
+[
+	{
+	    "type" : "mutation_category",
+        "id" : "BEE",
+        "name" : "Bee",
+        "threshold_mut" : "THRESH_BEE",
+        "mutagen_message" : "Your mind is stricken by a daydream involving hundreds of workers building in harmony.",
+        "iv_message" : "For a moment, you swear you can smell a flower that's miles away.",
+        "memorial_message" : "Flew to the great hive in the sky."
+	}
+]

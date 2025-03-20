@@ -1,0 +1,13 @@
+[
+    {
+      "type": "MOD_INFO",
+      "id": "bee_mutations",
+      "name": "Big Beeswax",
+      "authors": [ "RYUMI" ],
+      "maintainers": [ "RYUMI" ],
+      "description": "Adds a new mutation branch themed around bees.",
+      "category": "misc_additions",
+      "dependencies": [ "bn" ]
+    }
+  ]
+  

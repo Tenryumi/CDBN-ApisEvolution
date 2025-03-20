@@ -1,0 +1,117 @@
+[
+    {
+        "type": "mutation",
+        "id": "CHITIN",
+        "copy-from": "CHITIN",
+        "extend": { "category": [ "BEE" ] }
+    },
+    {
+        "type": "mutation",
+        "id": "CHITIN_FUR",
+        "copy-from": "CHITIN_FUR",
+        "extend": { "category": [ "BEE" ] }
+        
+    },
+    {
+        "type": "mutation",
+        "id": "CHITIN_FUR2",
+        "copy-from": "CHITIN_FUR2",
+        "extend": { "category": [ "BEE" ] }
+        
+    },
+    {
+        "type": "mutation",
+        "id": "WINGS_INSECT",
+        "copy-from": "WINGS_INSECT",
+        "extend": { "category": [ "BEE" ], "changes_to": [ "WINGS_BEE" ] }
+        
+    },
+    {
+        "type": "mutation",
+        "id": "WINGS_STUB",
+        "copy-from": "WINGS_STUB",
+        "extend": { "category": [ "BEE" ] }
+        
+    },
+    {
+        "type": "mutation",
+        "id": "INSECT_ARMS",
+        "copy-from": "INSECT_ARMS",
+        "extend": { "category": [ "BEE" ] }
+        
+    },
+    {
+        "type": "mutation",
+        "id": "INSECT_ARMS_OK",
+        "copy-from": "INSECT_ARMS_OK",
+        "extend": { "category": [ "BEE" ] }
+        
+    },
+    {
+        "type": "mutation",
+        "id": "ANTENNAE",
+        "copy-from": "ANTENNAE",
+        "extend": { "category": [ "BEE" ] }
+        
+    },
+    {
+        "type": "mutation",
+        "id": "HEAVYSLEEPER",
+        "copy-from": "HEAVYSLEEPER",
+        "extend": { "category": [ "BEE" ] }
+        
+    },
+    {
+        "type": "mutation",
+        "id": "PROJUNK",
+        "copy-from": "PROJUNK",
+        "extend": { "category": [ "BEE" ] }
+        
+    },
+    {
+        "type": "mutation",
+        "id": "ANIMALDISCORD",
+        "copy-from": "ANIMALDISCORD",
+        "extend": { "category": [ "BEE" ] }
+        
+    },
+    {
+        "type": "mutation",
+        "id": "NIGHTVISION",
+        "copy-from": "NIGHTVISION",
+        "extend": { "category": [ "BEE" ] }
+        
+    },
+    {
+        "type": "mutation",
+        "id": "NIGHTVISION2",
+        "copy-from": "NIGHTVISION2",
+        "extend": { "category": [ "BEE" ] }
+        
+    },
+    {
+        "type": "mutation",
+        "id": "PHEROMONE_INSECT",
+        "copy-from": "PHEROMONE_INSECT",
+        "extend": { "category": [ "BEE" ] }
+        
+    },
+    {
+        "type": "mutation",
+        "id": "TAIL_THICK",
+        "copy-from": "TAIL_THICK",
+        "extend": { "changes_to": [ "TAIL_BEE" ], "category": [ "BEE" ] }
+    },
+    {
+        "type": "mutation",
+        "id": "TAIL_STUB",
+        "copy-from": "TAIL_STUB",
+        "extend": { "category": [ "BEE" ] }
+    },
+    {
+        "type": "mutation",
+        "id": "INSECT_RESERVOIR",
+        "copy-from": "INSECT_RESERVOIR",
+        "extend": { "category": [ "BEE" ], "changes_to": [ "BEE_RESERVOIR" ] }
+    }
+]

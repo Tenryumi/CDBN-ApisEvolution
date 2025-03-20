@@ -1,0 +1,39 @@
+[
+    {
+        "type" : "dream",
+        "messages" : [
+            "You dream of sweet honey.",
+            "Your dreams make you want to build something."
+            ],
+        "category" : "BEE",
+        "strength" : 1
+	},
+	{
+        "type" : "dream",
+        "messages" : [
+            "You dream of flying around a giant flower.",
+            "Your dreams leave you with an imaginary buzzing noise that fades away."
+            ],
+        "category" : "BEE",
+        "strength" : 2
+	},
+	{
+        "type" : "dream",
+        "messages" : [
+            "You dream of a legion of bees sacrificing themselves to save you.",
+            "Your dreams leave you imagining elaborate construction projects for insects."
+            ],
+        "category" : "BEE",
+        "strength" : 3
+	},
+	{
+        "type" : "dream",
+        "messages" : [
+            "You dream of impaling a giant zombie with your stinger.",
+            "You dream of an army of bee drones creating a statue of you in your honor.",
+            "A war is waged in your dreams between the undead and a legion of bees at your command. You win in the end."
+            ],
+        "category" : "BEE",
+        "strength" : 4
+	}
+]
