@@ -16,7 +16,7 @@
         "type": "mutation",
         "id": "CHITIN_FUR2",
         "copy-from": "CHITIN_FUR2",
-        "extend": { "category": [ "BEE" ] }
+        "extend": { "category": [ "BEE" ], "changes_to": [ "CHITIN_FUR_BEE" ] }
         
     },
     {
