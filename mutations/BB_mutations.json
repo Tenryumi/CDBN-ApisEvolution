@@ -2,7 +2,7 @@
     {
         "type": "mutation",
         "id": "THRESH_BEE",
-        "name": { "str": "One With the Hive" },
+        "name": { "str": "Apis" },
         "points": 1,
         "description": "The fate of humanity isn't your problem. You have a hive to build, workers to lead!",
         "valid": false,
@@ -90,7 +90,7 @@
         "ugliness": 2,
         "bodytemp_modifiers": [ 150, 250 ],
         "bodytemp_sleep": 75,
-        "description": "The hair on your chitin has grown more sensitive, and has developed a lovely black and yellow coloration. It doesn't make you any warmer or more protected than before, but the hairs are more sensitive and allow you to feel vibrations in the air, slightly enhancing your ability to dodge.",
+        "description": "The hair on your chitin has grown more sensitive, and has developed a lovely black and yellow coloration. It doesn't make you any warmer or more protected than before, but the hairs are more sensitive and allow you to sense vibrations in the air, slightly enhancing your ability to dodge.",
         "types": [ "SKIN" ],
         "threshreq": [ "THRESH_BEE" ],
         "prereqs": [ "CHITIN_FUR2" ],
