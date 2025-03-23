@@ -1,0 +1,31 @@
+[
+    {
+        "type": "overlay_order",
+        "overlay_ordering": [
+            {
+                "id": [
+                    "WINGS_BEE"
+                ],
+                "order": 500
+            },
+            {
+                "id": [
+                    "CHITIN_FUR_BEE"
+                ],
+                "order": 1500
+            },
+            {
+                "id": [
+                    "TAIL_BEE"
+                ],
+                "order": 3500
+            },
+            {
+                "id": [
+                    "FLUFFY_COLLAR"
+                ],
+                "order": 5000
+            }
+        ]
+    }
+]
