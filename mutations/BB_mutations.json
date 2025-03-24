@@ -61,7 +61,7 @@
         "active": true,
         "//": "Better lift than insect wings at a higher cost!",
         "cost": 35,
-        "time": 20,
+        "time": 7,
         "fatigue": true,
         "hunger": true,
         "thirst": true,
