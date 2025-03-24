@@ -71,15 +71,19 @@
       {
         "type": "mutation",
         "id": "BEE_RESERVOIR",
-        "name": { "str": "Nutrient Reservoir" },
-        "points": -1,
+        "name": { "str": "Honey Reservoir" },
+        "points": 1,
         "visibility": 4,
         "ugliness": 3,
-        "description": "Instead of storing water, the reservoir in your abdomen now converts some of your nutrients to honey. But surely there will be a use for this eventually, right...?",
+        "description": "Instead of storing water, the reservoir in your abdomen now converts some of your nutrients to honey - a process that constantly consumes calories, making you require more food. However, you can also extract this honey at will - at a very high cost to your body's nutrition.",
         "metabolism_modifier": 0.30,
         "category": [ "BEE" ],
         "threshreq": [ "THRESH_BEE" ],
-        "prereqs": [ "INSECT_RESERVOIR" ]
+        "prereqs": [ "INSECT_RESERVOIR" ],
+        "active": true,
+        "cost": 500,
+        "hunger": true,
+        "spawn_item": { "type": "honey_bottled", "message": "You extract a bottle's worth of honey from your reservoir. Your organs sap most of the nutrition from your body to compensate." }
       },
       {
         "type": "mutation",
