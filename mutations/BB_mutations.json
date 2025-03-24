@@ -72,7 +72,7 @@
         "type": "mutation",
         "id": "BEE_RESERVOIR",
         "name": { "str": "Nutrient Reservoir" },
-        "points": 0,
+        "points": -1,
         "visibility": 4,
         "ugliness": 3,
         "description": "Instead of storing water, the reservoir in your abdomen now converts some of your nutrients to honey. But surely there will be a use for this eventually, right...?",
