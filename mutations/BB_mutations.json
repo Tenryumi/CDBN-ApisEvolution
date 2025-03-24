@@ -75,7 +75,7 @@
         "points": 0,
         "visibility": 4,
         "ugliness": 3,
-        "description": "Instead of storing water, the reservoir in your abdomen now converts some of your nutrients to honey. Your body now requires more nutrients to facilitate honey production, but you can ",
+        "description": "Instead of storing water, the reservoir in your abdomen now converts some of your nutrients to honey. But surely there will be a use for this eventually, right...?",
         "metabolism_modifier": 0.30,
         "category": [ "BEE" ],
         "threshreq": [ "THRESH_BEE" ],
