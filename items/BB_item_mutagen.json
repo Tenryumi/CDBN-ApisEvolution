@@ -1,0 +1,25 @@
+[
+    {
+        "id" : "mutagen_bee",
+        "copy-from" : "mutagen_flavor",
+        "type" : "COMESTIBLE",
+        "name" : { "str": "bee mutagen" },
+        "color" : "red",
+        "use_action" : {
+          "type" : "mutagen",
+          "mutation_category" : "BEE"
+        }
+	},
+    {
+        "id" : "iv_mutagen_bee",
+        "copy-from" : "iv_mutagen_flavor",
+        "type" : "COMESTIBLE",
+        "name" : { "str": "bee serum" },
+        "description": "A super-concentrated mutagen that looks and smells almost like honey.  You need a syringe to inject it… if you really want to?",
+        "color" : "red",
+        "use_action" : {
+          "type" : "mutagen_iv",
+          "mutation_category" : "BEE"
+        }
+	}
+]
