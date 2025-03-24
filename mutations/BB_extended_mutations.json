@@ -42,9 +42,23 @@
     },
     {
         "type": "mutation",
+        "id": "INSECT_ARMS",
+        "copy-from": "INSECT_ARMS",
+        "extend": { "category": [ "BEE" ], "threshreq": [ "THRESH_BEE" ] }
+        
+    },
+    {
+        "type": "mutation",
         "id": "INSECT_ARMS_OK",
         "copy-from": "INSECT_ARMS_OK",
-        "extend": { "category": [ "BEE" ] }
+        "extend": { "category": [ "BEE" ], "threshreq": [ "THRESH_BEE" ] }
+        
+    },
+    {
+        "type": "mutation",
+        "id": "ACIDPROOF",
+        "copy-from": "ACIDPROOF",
+        "extend": { "category": [ "BEE" ], "threshreq": [ "THRESH_BEE" ] }
         
     },
     {
@@ -65,6 +79,34 @@
         "type": "mutation",
         "id": "HEAVYSLEEPER",
         "copy-from": "HEAVYSLEEPER",
+        "extend": { "category": [ "BEE" ] }
+        
+    },
+    {
+        "type": "mutation",
+        "id": "FORGETFUL",
+        "copy-from": "FORGETFUL",
+        "extend": { "category": [ "BEE" ] }
+        
+    },
+    {
+        "type": "mutation",
+        "id": "INFRARED",
+        "copy-from": "INFRARED",
+        "extend": { "category": [ "BEE" ] }
+        
+    },
+    {
+        "type": "mutation",
+        "id": "COLDBLOOD2",
+        "copy-from": "COLDBLOOD2",
+        "extend": { "category": [ "BEE" ] }
+        
+    },
+    {
+        "type": "mutation",
+        "id": "COLDBLOOD2",
+        "copy-from": "COLDBLOOD2",
         "extend": { "category": [ "BEE" ] }
         
     },
